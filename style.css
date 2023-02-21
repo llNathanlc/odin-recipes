@@ -1,0 +1,39 @@
+body{
+    font-family:"Verdana";
+    background-color: antiquewhite;
+}
+h1,.ingredients,.steps{
+    font-weight: bolder;
+    font-style: italic;
+    color:rgb(172, 89, 51)
+}
+a{
+    
+    color:rgb(126, 35, 35);
+    font-weight: bold;
+}
+img{
+    width: 600px;
+    height: 400px;
+}
+.ingredients,.steps{
+    font-weight: bold;
+    font-size: 20px;
+}
+.title{
+    font-weight: 600;
+    text-align: center;
+}
+ul li{
+    font-style: italic;
+    font-weight: 50;
+}
+ol li{
+    font-style: italic;
+    font-weight: 600;
+}
+ol p{
+    text-align: left;
+    text-indent: 50cm;
+    margin-right: 100px;
+}

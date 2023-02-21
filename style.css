@@ -1,10 +1,11 @@
 body{
     font-family:"Verdana";
     background-color: antiquewhite;
-    margin-left:26%;
-    margin-right:26%;
+    margin-left:28%;
+    margin-right:28%;
     text-align: center;
-    border:rgb(235, 189, 91) 10px solid;
+    padding: 30px;
+    border:rgb(235, 189, 91) 30px solid;
     border-style: double;
    
 }
@@ -17,11 +18,14 @@ a{
     text-decoration: none;
     color:rgb(126, 35, 35);
     font-weight: bold;
-    font-size: large;
+    font-size:large;
 }
 .img{
-    width: 600px;
-    height: 400px;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    vertical-align: middle;
+    border-style: none;
 }
 .ingredients,.steps{
     font-weight: bold;
@@ -44,7 +48,7 @@ ol li{
 }
 .paragraph{
     text-align: left;
-    text-shadow: 100mm;
+    text-
 }
 
     
